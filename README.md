@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Artificial Intelligence
 - 🌱 I’m currently learning ...Machine learning and data science
 - 💞️ I’m looking to collaborate on ...Anything challenging
-- 📫 How to reach me ...
+- 📫 How to reach me ...on Reddit @Humble_watercress_11
 
 <!---
 Suryateja34/Suryateja34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
